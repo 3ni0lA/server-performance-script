@@ -7,4 +7,6 @@ You are required to write a script `server-stats.sh` that can analyse basic serv
 ### - Top 5 processes by CPU usage
 ### - Top 5 processes by memory usage
 
-## Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+
+# Projects url: https://roadmap.sh/projects/server-stats
